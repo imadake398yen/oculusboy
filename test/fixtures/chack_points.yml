@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 1
+  user_id: 1
+  clear_time: 2015-02-11 16:03:08
+
+two:
+  number: 1
+  user_id: 1
+  clear_time: 2015-02-11 16:03:08
